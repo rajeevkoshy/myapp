@@ -1,5 +1,5 @@
  var express = require('express');
-var path = require('path'); //git conflict test1 
+var path = require('pathss'); //git conflict test1 
 var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
